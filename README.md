@@ -90,3 +90,16 @@ Este reto será evaluado sobre lo siguiente:
 * Indentación
 * Archivo `README.md` actualizado y correctamente redactado
 * Uso de comentarios para hacer tu código más legible
+
+
+## Lyft actualizado
+
+* Dentro del repositorio actualizado se podrá encontrar con un archivo html con la estructura del sitio web replicado, debidamente enlazado con su archivo css que contiene los diferentes estilos del sitio web.
+
+***
+Para poder realizar el maquetado de lyft utilice elementos semánticos de html, como nav para hacer el menú con posición fija el cual está dentro de un header y para el resto de las secciones utilice la etiqueta section y footer para el pie de página.
+
+* Dentro de nav hice uso de dos div uno que contiene la imagen del logo y otro que contiene el resto de la lista desordenada 
+* Dentro de cada section utilice div que contenga los diferentes elementos.
+* los iconos utilizados son de icomoon y los tipos de letras son de google fonts. Tanto icomoon como google fonts debidamente enlazados en el html.
+
